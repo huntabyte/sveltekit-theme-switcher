@@ -14,6 +14,8 @@
 					<ul class="p-2 bg-base-100 w-full max-h-96 overflow-y-scroll">
 						<li>
 							<button>Dark</button>
+						</li>
+						<li>
 							<button>Light</button>
 						</li>
 					</ul>
